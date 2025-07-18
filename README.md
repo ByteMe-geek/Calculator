@@ -1,2 +1,3 @@
-It's a Calculator.
-We all know what calculator is and what it is for. 👍
+A **basic calculator** built using HTML and CSS. It performs simple arithmetic operations like addition, subtraction, multiplication, and division.
+Features: * Clean and responsive layout
+          * Simple user interface
